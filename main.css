@@ -343,7 +343,8 @@ blockquote span{
     right: 0;
     color: #fff;
     padding: 5px 30px;
-    height: 650px;
+    height: 750px;
+    
     background: rgba(0, 0, 0, 0.7);
 }
 .single-img-content h3{
